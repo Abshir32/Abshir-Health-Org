@@ -1,0 +1,208 @@
+.back{ 
+    background-color: rgb(88, 88, 121);
+    color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+}
+.P1,.P2,.P3{
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.P3{
+    color: aqua;
+}
+.P4,.P5,p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+}
+.testimonials{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#topic,h3{
+    color: rgb(55, 96, 231);
+}
+h2{
+    color:rgb(52, 104, 104);
+}
+.image1,.image2,.image3,.image4{
+border: 2.5px solid rgb(3, 10, 32);
+border-radius: 10px;
+}
+.ward{
+    border: 3px solid rgb(82, 203, 243) ;
+    border-radius: 15px;
+}
+.fa-solid ,.fa-regular {
+    color: rgb(82, 203, 243);
+    font-size: 150px;
+}
+.fa-solid:hover{
+    color: rgb(36, 18, 18);
+}
+.fa-regular:hover{
+    color: rgb(36, 18, 18);
+}
+.vida{
+    border-radius: 15px;
+    border: 2px solid rgb(35, 35, 54) ;
+}
+h4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   color: rgb(248, 54, 54);
+   font-size: 20px; 
+}
+.P6,.P7{
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.H1{
+    border: 1px wheat solid;
+}
+.fa-brands{
+    font-size: 50px;
+}
+
+.fa-brands:hover{
+    color: rgb(36, 18, 18);
+}
+
+
+
+
+button {
+    width: 100%;
+    border: 8px darkblue;
+    border-radius: 10px;
+    padding: 10px 14px;
+    box-sizing: border-box;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 9px 3px;
+}
+
+button:hover {
+    color: aqua;
+    font-style: italic;
+    background-color: rgb(77, 56, 29);
+}
+.image10{
+    border-radius: 100%;
+    height: 100px;
+    width: 100px;
+}
+hr{
+    border: lightblue solid 2px;
+    width: 70%;
+}
+.div1{
+    border-radius: 15px;
+    
+}
+#comment{
+    border: 2px solid lightseagreen;
+    border-radius: 10px;
+}
+#logo3,#logo2{
+    border-radius: 100%;
+}
+
+#services{
+    border:5px solid lightseagreen ;
+    border-radius: 70%;
+    min-width: 330px;
+    min-height: 330px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.kichwa,#kichwa4{
+    color: rgb(55, 96, 231);
+}
+#daktari{
+    border: 3px solid lightseagreen;
+    border-radius: 100%;
+}
+#specialist{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.person{
+    margin-left: 10px;
+    margin-right: 10px;
+    max-width: 350px;
+    
+}
+
+.vL{
+    border: 2px solid lightseagreen ;
+    max-width: 2px;
+}
+li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}form{
+    background-color: darkblue;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 15px;
+}
+input,textarea{
+    margin: 10px 0;
+}
+input,textarea{
+    border: 2px solid black;
+}
+#macho{
+    font-size: 60px;
+}
+#mission,.values{
+    border: 3px solid rgb(108, 108, 247);
+    border-radius: 15px;
+    background-color: rgb(211, 211, 248);
+    padding: 20px;
+}
+#invisible{
+    background-color: white;
+}
+.btn-group{
+    display: flex;
+    border: 1px solid #a8a8a8;
+    border-radius: 4px;
+    margin: 1rem 0 1.5rem;
+    padding: 0.5rem;
+}
+.btn-group,#btngroup{
+    
+    border-radius: 4px;
+    cursor: pointer;
+    flex: 1 1 100%;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin: 0 0.25rem;
+    padding: 0.5rem 0.25rem;
+    text-align: center;
+}
+#designation{
+    background-color: #fff !important;
+    border: 1px solid #a8a8a8;
+    border-radius: 4px;
+    color: #000;
+    display: block;
+    font-family: "Mayo Sans",arial,sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    height: 45px;
+    
+    padding: 0.625rem;
+    width: 100%;
+}
+
+#collapsiblebutton{
+ max-width: 80px;
+}
+
+
+
